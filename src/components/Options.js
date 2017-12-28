@@ -3,7 +3,7 @@ import Option from './Option';
 
 const Options = (props) =>(
         <div>
-            <div class="widget-header">
+            <div className="widget-header">
                 <h3 className="widget-header__title"> Your Optios</h3>
                 <button 
                 className="button button--link"
